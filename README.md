@@ -17,14 +17,16 @@ welcome to visit my GitHub.
 2. Don't send **empty or too useless** issues.
 3. Don't **insult ANYTHING**.
 
-    If you have any questions or suggestions for these rules, issue in this repository.
+If you have any questions or suggestions for these rules, issue in this repository.
 
 ## Repositories' git clone command
 
-    You can also use the gitcloneCommandGenerator.py in this repo to get the git clone command. It's fit for all repositories in GitHub.
+You can also use the gitcloneCommandGenerator.py in this repo to get the git clone command. It's fit for all repositories in GitHub.
 
 6871296: `git clone git@github.com:6871296/6871296.git`
 
 calculatorMax: `git clone git@github.com:6871296/calculatorMax.git`
 
 myPythonLibs: `git@github.com:6871296/myPythonLibs.git`
+
+<!--linklist.h: `git@github.com:6871296/linklist.h.git`-->
