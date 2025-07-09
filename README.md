@@ -29,4 +29,4 @@ calculatorMax: `git clone git@github.com:6871296/calculatorMax.git`
 
 myPythonLibs: `git@github.com:6871296/myPythonLibs.git`
 
-<!--linklist.h: `git@github.com:6871296/linklist.h.git`-->
+<!--linklist.h: `git clone git@github.com:6871296/linklist.h.git`-->
