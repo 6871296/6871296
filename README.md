@@ -27,6 +27,6 @@ You can also use the gitcloneCommandGenerator.py in this repo to get the git clo
 
 calculatorMax: `git clone git@github.com:6871296/calculatorMax.git`
 
-myPythonLibs: `git@github.com:6871296/myPythonLibs.git`
+myPythonLibs: `git clone git@github.com:6871296/myPythonLibs.git`
 
 <!--linklist.h: `git clone git@github.com:6871296/linklist.h.git`-->
