@@ -17,7 +17,7 @@ welcome to visit my GitHub.
 2. Don't send **empty or too useless** issues.
 3. Don't **insult ANYTHING**.
 
-If you have any questions or suggestions for these rules, **issue in my Issueing Area**.
+If you have any questions or suggestions for these rules, **issue here**.
 
 ## Repositories' git clone command
 
