@@ -5,6 +5,9 @@
 welcome to visit my GitHub.
 
 ## Recommended repos
+
+Recommended repos are the very good and useful repos, which have integral branch systems. You just need to use `contributing` branch to debug, don't need to fork.
+
 1. [CalculatorMax](https://github.com/6871296/calculatorMax.git)
 
 CalculatorMax is my proudest repo, not one of them.(Maybe without DataIO) you can use all functions in `math` and `random` to calculate any complicated formulas. This is also the only project that can automatically install, semi-automatically uninstall external modules.
@@ -12,6 +15,12 @@ CalculatorMax is my proudest repo, not one of them.(Maybe without DataIO) you ca
 2. [DataIO](https://github.com/6871296/DataIO.git)
 
 DataIO is my favorest repo, also not one of them. you can use a variety of functions (which is all typed by hands without `hash` needed `hashlib`, no depention, no generaion, no copy) to edit your JSON files easily. This'll also add automatically install, semi-automatically uninstall external modules in the newer versions.
+
+## `contributing` branch usage
+1. `contributing` branch is opened for convenient development of recommended repos. you can debug with `contributing` branch without forking.
+2. please **say that you need to use this branch** and **look if other peoples are using this branch** before using to defend repo confusion.
+3. Don't use this branch too long maliciously.
+4. **DON'T USE `dev` BRANCH WITHOUT PERMISSION!!!**
 
 ## Commit rules
 
