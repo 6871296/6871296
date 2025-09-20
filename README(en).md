@@ -40,7 +40,7 @@ If you have any questions or suggestions for these rules, **issue here**.
 
 ## Repositories' git clone command
 
-You can also use the gitcloneCmdGen.py in this repo to get the git clone command. It's fit for all repositories in GitHub.
+You can also use the gitcloneCmdGen.py in this repo to get the git clone command. It's fit for all repositories in GitHub, but **can't tell you if this repo doesn't exist.**
 
 6871296: `git clone git@github.com:6871296/6871296.git`
 
