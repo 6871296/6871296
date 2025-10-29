@@ -12,7 +12,7 @@
 
 CalculatorMax是我最引以为傲的项目，没有之一。（也许DataIO除外）你可以使用`math`和`random`中的所有功能，计算任何复杂的数学算式。这也是目前唯一能自动导入、半自动删除外部库的项目。
 
-2. [Languanges Site](https://github.com/6871296/languanges-site.git)（[Web部署项目](https://6871296.github.io/languages-site)）
+2. [Languanges Site](https://github.com/6871296/languanges-site.git)（[Web部署项目](https://6871296.github.io/languanges-site/)）
 
 Languanges Site是我的第一个Web项目。在网站上，你可以快速查找到各种编程语言的有关网站。
 
