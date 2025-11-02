@@ -6,6 +6,8 @@
 
 临时声明：README英文版暂时停止更新。
 
+[commit前必读](https://github.com/6871296/6871296/blob/main/before-commiting.md)
+
 ## 主推作品
 
 1. [CalculatorMax](https://github.com/6871296/calculatorMax.git)
